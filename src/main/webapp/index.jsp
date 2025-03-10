@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>aaaaaaaa</h2>
+      <h2>haaii</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
